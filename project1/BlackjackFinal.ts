@@ -1,4 +1,11 @@
 
+// git directory https://github.com/chasejmelhorn/GitDirectory/tree/main/project1
+
+//implemented 
+// Main menue
+// same deck between games
+// Splitting logic
+
 import readline from "readline-sync";
 
 // enums representing the suits and ranks in a deck
