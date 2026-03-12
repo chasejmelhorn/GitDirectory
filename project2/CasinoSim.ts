@@ -1,4 +1,4 @@
-// GitHub Repository: https://github.com/chasejmelhorn/GitDirectory/tree/project2
+// GitHub Repository: https://github.com/chasejmelhorn/GitDirectory/tree/project2/project2
 
 
 // this is an abstract class, meaning, we cannot write "new Game(...)".
